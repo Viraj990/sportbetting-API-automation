@@ -1,0 +1,17 @@
+{
+  "fixture_id": [
+    122606
+  ],
+  "stake_amount": "10.00",
+  "total_odds": "3.07",
+  "vat_amount": "2.00",
+  "total_amount": "8.00",
+  "win_amount": "24.56",
+  "tax_amount": "0.00",
+  "odd_id": [
+    {
+      "fixture_id": 122606,
+      "odd_id": 22401578
+    }
+  ]
+}
