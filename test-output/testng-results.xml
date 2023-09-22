@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-12T16:16:02 IST" name="Default suite" finished-at="2023-09-12T16:16:15 IST" duration-ms="13435">
+  <suite started-at="2023-09-22T16:05:23 IST" name="Default suite" finished-at="2023-09-22T16:05:25 IST" duration-ms="2601">
     <groups>
     </groups>
-    <test started-at="2023-09-12T16:16:02 IST" name="Default test" finished-at="2023-09-12T16:16:15 IST" duration-ms="13435">
-      <class name="superAdminTest.DashboardTest">
-        <test-method signature="getdashboarddatas()[pri:1, instance:superAdminTest.DashboardTest@121314f7]" started-at="2023-09-12T16:16:02 IST" name="getdashboarddatas" finished-at="2023-09-12T16:16:06 IST" duration-ms="3726" status="PASS">
+    <test started-at="2023-09-22T16:05:23 IST" name="Default test" finished-at="2023-09-22T16:05:25 IST" duration-ms="2601">
+      <class name="iGuru.Sportsbook.BIP.CashierAdminTest.CashierProfileTest">
+        <test-method signature="changepassword()[pri:3, instance:iGuru.Sportsbook.BIP.CashierAdminTest.CashierProfileTest@576d5deb]" started-at="2023-09-22T16:05:23 IST" name="changepassword" finished-at="2023-09-22T16:05:25 IST" duration-ms="2542" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getdashboarddatas -->
-        <test-method signature="getweekbetstats()[pri:2, instance:superAdminTest.DashboardTest@121314f7]" started-at="2023-09-12T16:16:06 IST" name="getweekbetstats" finished-at="2023-09-12T16:16:08 IST" duration-ms="2037" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getweekbetstats -->
-        <test-method signature="getbetmonthstats()[pri:3, instance:superAdminTest.DashboardTest@121314f7]" started-at="2023-09-12T16:16:08 IST" name="getbetmonthstats" finished-at="2023-09-12T16:16:10 IST" duration-ms="2923" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getbetmonthstats -->
-        <test-method signature="gettopweek()[pri:4, instance:superAdminTest.DashboardTest@121314f7]" started-at="2023-09-12T16:16:10 IST" name="gettopweek" finished-at="2023-09-12T16:16:12 IST" duration-ms="1950" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- gettopweek -->
-        <test-method signature="gettopmonthstats()[pri:5, instance:superAdminTest.DashboardTest@121314f7]" started-at="2023-09-12T16:16:12 IST" name="gettopmonthstats" finished-at="2023-09-12T16:16:15 IST" duration-ms="2748" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- gettopmonthstats -->
-      </class> <!-- superAdminTest.DashboardTest -->
+        </test-method> <!-- changepassword -->
+      </class> <!-- iGuru.Sportsbook.BIP.CashierAdminTest.CashierProfileTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
