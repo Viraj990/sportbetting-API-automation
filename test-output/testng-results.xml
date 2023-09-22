@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-22T16:05:23 IST" name="Default suite" finished-at="2023-09-22T16:05:25 IST" duration-ms="2601">
+    <groups>
+    </groups>
+    <test started-at="2023-09-22T16:05:23 IST" name="Default test" finished-at="2023-09-22T16:05:25 IST" duration-ms="2601">
+      <class name="iGuru.Sportsbook.BIP.CashierAdminTest.CashierProfileTest">
+        <test-method signature="changepassword()[pri:3, instance:iGuru.Sportsbook.BIP.CashierAdminTest.CashierProfileTest@576d5deb]" started-at="2023-09-22T16:05:23 IST" name="changepassword" finished-at="2023-09-22T16:05:25 IST" duration-ms="2542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changepassword -->
+      </class> <!-- iGuru.Sportsbook.BIP.CashierAdminTest.CashierProfileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
